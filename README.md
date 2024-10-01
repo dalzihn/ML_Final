@@ -1,5 +1,5 @@
 # ML_Final
-This is the repository of Group 3's final project whose subject is Machine Learning and is currently studying in University of Economics of Ho Chi Minh city. 
+This is the repository of Group 3's final project whose subject is Machine Learning and is currently studying in University of Economics Ho Chi Minh city. 
 
 Members: 
 
