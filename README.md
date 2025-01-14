@@ -1,7 +1,7 @@
 # ML_Final
-This is the repository of Group 3's final project whose subject is Machine Learning and is currently studying in University of Economics Ho Chi Minh city. 
+The repo for diving into BANG clustering algorithm for the task of customer segmentation.
 
-Members: 
+Contributors: 
 
          1. Nguyễn Đôn Đức 
 
